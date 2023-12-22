@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+  
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 10px;  
+}
+
+h1 {
+    color: #FFFF;
+}
+
+section {
+    margin: 20px 0;
+}
+
+#inicio h2 {
+    text-align: center;
+    color: #333;
+}
+
+.quienes-somos,
+.que-realizamos,
+.que-ofrecemos {
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
